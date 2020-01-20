@@ -7,4 +7,5 @@ class Show < ActiveRecord::Base
       "#{f.first_name} #{f.last_name}" 
     end 
   end 
+  
 end
